@@ -29,7 +29,7 @@ STEP-5: Display the obtained cipher text.
 
 
 
-Program:
+**PROGRAM**
 ```
 #include <stdio.h>
 #include <string.h>
@@ -156,8 +156,8 @@ int main()
     return 0;
 }
 ```
-OUTPUT:
+**OUTPUT:**
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c366a9bd-1b0a-49cf-b6e0-b7ff3f78c090" />
 
-RESULT: The program is executed successfully
+**RESULT:** The program is executed successfully
 
