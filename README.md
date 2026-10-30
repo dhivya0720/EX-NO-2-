@@ -157,7 +157,8 @@ int main()
 }
 ```
 **OUTPUT:**
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c366a9bd-1b0a-49cf-b6e0-b7ff3f78c090" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/71c984b2-da38-4121-9010-32255bf0d5d4" />
+
 
 **RESULT:** The program is executed successfully
 
